@@ -1,0 +1,50 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    padding:10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 18px;
+  }
+
+  body{
+    background:url('https://wallpaperaccess.com/full/1373048.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+
+  .copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(128, 186, 240);
+    line-height: 3;
+    text-align: center;
+    margin-top: 550px;
+  }
+ 
+  canvas{
+    border: 5px solid rgb(104, 138, 182);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(107, 183, 218);
+    margin-top: 130px;
+   
+  }
